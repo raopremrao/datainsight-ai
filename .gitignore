@@ -1,0 +1,16 @@
+# Python runtime files
+__pycache__/
+*.pyc
+
+# Environment variables (DO NOT UPLOAD)
+.env
+venv/
+
+# Local database file
+site.db
+instance/
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store

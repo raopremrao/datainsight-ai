@@ -1,0 +1,14 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-Migrate
+pandas
+openpyxl  # For reading Excel files
+openai
+python-dotenv # To manage API keys
+authlib
+requests
+gunicorn # For deployment
+psycopg2-binary # For PostgreSQL in production
+werkzeug
+google-generativeai
